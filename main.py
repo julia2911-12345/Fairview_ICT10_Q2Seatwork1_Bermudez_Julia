@@ -1,5 +1,3 @@
-from readline import redisplay
-
 from pyscript import document
 
 #list of members in the dance club
